@@ -1,0 +1,61 @@
+#my{ 
+    background-color: aquamarine;
+}
+.container h1{
+    color: white;
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.so {
+    margin-left: 30px;
+
+}
+.so1{
+    background-color: red;
+    padding: 16px 5px;
+    border-radius: 10px;
+
+}
+.paddbetween{
+    padding: 10px;
+    text-align: justify;
+    margin-top: 15px;
+}
+.container{
+    width: 1400px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.padding-x{
+    padding: 20px 0px;
+}
+.navbar-nav ul{
+    display: flex;
+  
+
+}
+
+.navbar-nav ul li{
+    margin-right: 20px;
+    list-style: none; 
+    font-size: 20px;
+    
+}
+.navbar-nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+
+}
+.container span{
+   margin-right: 10px;
+   color: white;
+   font-size: 20px;
+}
+
+#navbar{
+    background-color: black;
+}
